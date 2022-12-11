@@ -1,0 +1,15 @@
+Data Structure - I Multiple Choice Questions Highlights
+- 1000+ Multiple Choice Questions & Answers (MCQs) in Data Structure - I with a detailed explanation of every question.
+- These MCQs cover theoretical concepts, true-false(T/F) statements, fill-in-the-blanks and match the following style statements.
+- These MCQs also cover lots of code, code snippets and/or complete programs.
+- These MCQs are organized chapterwise and each Chapter is futher organized topicwise.
+- Every MCQ set focuses on a specific topic of a given Chapter in Data Structure - I Subject.
+- Data Structure MCQ with answers in PDF format for all the chapters as per the prescribed syllabus.
+Who should Practice Data Structure - I MCQs?
+– Students who are preparing for college tests and exams such as mid-term tests and semester tests on Data Structure - I.
+- Students who are preparing for Online/Offline Tests/Contests in Data Structure - I.
+– Students who wish to sharpen their knowledge of Data Structure Subject.
+- Anyone preparing for Aptitude test in Data Structure.
+- Anyone preparing for interviews (campus/off-campus interviews, walk-in interview and company interviews).
+- Anyone preparing for entrance examinations and other competitive examinations.
+- All - Experienced, Freshers and College / School Students.
